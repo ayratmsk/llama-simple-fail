@@ -2,5 +2,5 @@
 
 1. Download repo
 2. Create folder /models on same level with Cargo.toml
-3. Download LLM-model file from HF or make symbolic link to llama-2-7b-chat.Q5_K_M.gguf
+3. Download LLM-model file from HF or make symbolic link to /models/llama-2-7b-chat.Q5_K_M.gguf
 4. Run code: $ cargo run
